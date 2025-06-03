@@ -80,6 +80,7 @@ project
 │       │   └── __init__.py
 │       ├── templates/              # App-specific templates go here
 │       ├── tests/                  # All your integration and unit tests for an app go here.
+│       │   └── __init__.py
 │       ├── __init__.py
 │       ├── admin.py
 │       ├── apps.py
